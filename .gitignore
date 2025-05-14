@@ -1,0 +1,7 @@
+# Ignore PyCharm project files
+.idea
+
+# Ignore Anaconda project files
+/anaconda_projects
+
+.DS_Store
